@@ -45,6 +45,11 @@
     <td>Day 7</td>
     <td><a href='advent_7_2022.php'>Click</a></td>
   </tr>
+  <tr>
+    <td>Day 8</td>
+    <td><a href='advent_8_2022.php'>Click</a></td>
+  </tr>
+
 
 </table>
 <?php
