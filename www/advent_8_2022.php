@@ -119,13 +119,6 @@ class AnalyzeTreesVisibility {
 }
 
 $input = get_input_as_matrix("my_puzzles/puzzle_day_8.txt");
-/*
-for ($x=0; $x < 99; $x++) {
-    for ($y=0; $y < 99; $y++) {
-        print($input[$x][$y] . ',');
-    }
-    print("<br>");
-}}*/
 
 print("Q1) " . (new AnalyzeTreesVisibility($input))->countVisibleTrees());
 print("<br>");

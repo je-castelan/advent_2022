@@ -49,7 +49,10 @@
     <td>Day 8</td>
     <td><a href='advent_8_2022.php'>Click</a></td>
   </tr>
-
+  <tr>
+    <td>Day 9</td>
+    <td><a href='advent_9_2022.php'>Click</a></td>
+  </tr>
 
 </table>
 <?php
